@@ -299,23 +299,25 @@ footer {
         width: 90%;
     }
     .artigo h2 {
-        font-size: 1.7rem;
+        font-size: 2rem;
     }
     .artigo p,
     .vantagens ul li {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 
-    
-    .box-vantagens {
+    .vantagens {
         width: 90%;
     }
+
     .vantagens h3 {
-        font-size: 1.3rem;
+        font-size: 1.9rem;
         padding: 20px 10px;
+        text-align: center;
     }
+
     .vantagens ul {
-        padding-left: 0.5rem;
+        padding-left: 1rem;
     }
     .box-funcoes {
         display: flex;
